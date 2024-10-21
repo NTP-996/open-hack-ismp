@@ -1,3 +1,4 @@
+![image](./Tutorial_Adding_ISMP_Pallet_to_Substrate_Runtime.png)
 # 📚 Tutorial: Adding ISMP Pallet to Substrate Runtime
 
 This tutorial will guide you through the process of adding an ISMP (Interoperable State Machine Protocol) pallet to your Substrate runtime. ISMP allows for interoperability between different blockchain networks, enabling cross-chain communication and data transfer.
